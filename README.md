@@ -49,7 +49,7 @@ _Real-time chat app with React, TypeScript, and SignalR._
 
 ---
 
-### 3. **Tank Trainer**  
+### 3. **Tank Internship project**  
 _Event-driven backend with FastAPI, RabbitMQ, and Redis._  
 - Features: JWT auth, OTP verification, Dockerized setup.  
 - **Tech**: Python, FastAPI, PostgreSQL, RabbitMQ, Docker.  
@@ -74,8 +74,8 @@ Always open to learning and experimenting! 🧠✨
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AmirKafi&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AmirKafi&layout=compact&theme=radical)
 
 ---
 
