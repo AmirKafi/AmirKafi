@@ -37,7 +37,7 @@ _ASP.NET Core app for managing courses, teachers, and users._
 - Built with **Clean Architecture** and **DDD** principles.  
 - Features: Role-based auth, course scheduling, teacher management.  
 - **Tech**: ASP.NET Core, SQL Server, EF Core, Autofac.  
-[🔗 View Project](https://github.com/your-repo-link)
+[🔗 View Project](https://github.com/AmirKafi/FallLady.Mood)
 
 ---
 
@@ -45,7 +45,7 @@ _ASP.NET Core app for managing courses, teachers, and users._
 _Real-time chat app with React, TypeScript, and SignalR._  
 - Features: Dark/Light mode, toast notifications, responsive UI.  
 - **Tech**: React, TypeScript, TailwindCSS, SignalR.  
-[🔗 View Project](https://github.com/your-repo-link)
+[🔗 View Project](https://github.com/AmirKafi/Realtime.ChatSystem.Client)
 
 ---
 
@@ -53,7 +53,7 @@ _Real-time chat app with React, TypeScript, and SignalR._
 _Event-driven backend with FastAPI, RabbitMQ, and Redis._  
 - Features: JWT auth, OTP verification, Dockerized setup.  
 - **Tech**: Python, FastAPI, PostgreSQL, RabbitMQ, Docker.  
-[🔗 View Project](https://github.com/your-repo-link)
+[🔗 View Project](https://github.com/AmirKafi/tank-trainer-project)
 
 ---
 
