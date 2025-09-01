@@ -2,7 +2,7 @@
 
 ### 🌟 Software Developer | ASP.NET & Python Enthusiast | Lifelong Learner
 
-I’m a developer with **1 year of industry experience**, specializing in **ASP.NET Core** and **Python**. I love building scalable applications, exploring modern technologies, and solving real-world problems. Always eager to learn and grow! 🚀
+I’m a developer with **3 year of industry experience**, specializing in **ASP.NET Core** and **Python**. I love building scalable applications, exploring modern technologies, and solving real-world problems. Always eager to learn and grow! 🚀
 
 ---
 
